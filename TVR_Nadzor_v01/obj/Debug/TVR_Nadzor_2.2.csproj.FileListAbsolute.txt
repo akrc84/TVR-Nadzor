@@ -18,3 +18,13 @@ C:\Users\ales\Documents\šiht\250118\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\Snm
 C:\Users\ales\Documents\šiht\250118\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.Form1.resources
 C:\Users\ales\Documents\šiht\250118\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.Properties.Resources.resources
 C:\Users\ales\Documents\šiht\250118\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_2.2.csproj.GenerateResource.Cache
+C:\Users\Aleš\Documents\GitHub\TVR-Nadzor\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.exe.config
+C:\Users\Aleš\Documents\GitHub\TVR-Nadzor\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_2.2.csproj.ResolveComReference.cache
+C:\Users\Aleš\Documents\GitHub\TVR-Nadzor\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.exe
+C:\Users\Aleš\Documents\GitHub\TVR-Nadzor\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.pdb
+C:\Users\Aleš\Documents\GitHub\TVR-Nadzor\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.exe
+C:\Users\Aleš\Documents\GitHub\TVR-Nadzor\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.pdb
+C:\Users\Aleš\Documents\GitHub\TVR-Nadzor\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_2.2.csprojResolveAssemblyReference.cache
+C:\Users\Aleš\Documents\GitHub\TVR-Nadzor\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.Form1.resources
+C:\Users\Aleš\Documents\GitHub\TVR-Nadzor\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.Properties.Resources.resources
+C:\Users\Aleš\Documents\GitHub\TVR-Nadzor\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_2.2.csproj.GenerateResource.Cache

@@ -1991,13 +1991,13 @@
             this.SidebarStatsLayoutPanel.AutoSize = true;
             this.SidebarStatsLayoutPanel.CellBorderStyle = System.Windows.Forms.TableLayoutPanelCellBorderStyle.Single;
             this.SidebarStatsLayoutPanel.ColumnCount = 1;
-            this.SidebarStatsLayoutPanel.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 237F));
+            this.SidebarStatsLayoutPanel.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 238F));
             this.SidebarStatsLayoutPanel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.SidebarStatsLayoutPanel.Location = new System.Drawing.Point(598, 67);
             this.SidebarStatsLayoutPanel.Name = "SidebarStatsLayoutPanel";
             this.SidebarStatsLayoutPanel.RowCount = 1;
             this.SidebarStatsLayoutPanel.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.SidebarStatsLayoutPanel.Size = new System.Drawing.Size(239, 24);
+            this.SidebarStatsLayoutPanel.Size = new System.Drawing.Size(240, 24);
             this.SidebarStatsLayoutPanel.TabIndex = 50;
             // 
             // SidebarTimer
@@ -2027,6 +2027,7 @@
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.Name = "Form1";
             this.Text = "TVR Nadzor v2.2.2          ©Aleš Krč ";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.tabControl1.ResumeLayout(false);

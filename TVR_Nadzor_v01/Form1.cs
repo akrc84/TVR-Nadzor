@@ -1018,10 +1018,10 @@ namespace TVR_Nadzor_v01
             AgentParameters aparam = new AgentParameters(SnmpVersion.Ver1, new OctetString("private"));
 
             // Response packet
-            SnmpV2Packet response;
+            SnmpV1Packet response;
 
             //pošlji SNMP SET ukaz
-            response = target.Request(pdu, aparam) as SnmpV2Packet;
+            response = target.Request(pdu, aparam) as SnmpV1Packet;
         }
 
         //SNMP SET IPADRESS EERICSSON
@@ -3107,6 +3107,11 @@ namespace TVR_Nadzor_v01
         private void Ostale_Vmesnik_button_Click(object sender, EventArgs e)
         {
             System.Diagnostics.Process.Start("http://" + IzbranENC.IP);
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 
