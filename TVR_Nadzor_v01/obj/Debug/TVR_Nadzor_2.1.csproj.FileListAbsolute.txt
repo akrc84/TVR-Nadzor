@@ -1,0 +1,72 @@
+C:\Users\Aleš\Documents\šiht\261017 razvoj\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.exe.config
+C:\Users\Aleš\Documents\šiht\261017 razvoj\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.exe
+C:\Users\Aleš\Documents\šiht\261017 razvoj\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.pdb
+C:\Users\Aleš\Documents\šiht\261017 razvoj\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_2.1.csproj.ResolveComReference.cache
+C:\Users\Aleš\Documents\šiht\261017 razvoj\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.Form1.resources
+C:\Users\Aleš\Documents\šiht\261017 razvoj\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.Properties.Resources.resources
+C:\Users\Aleš\Documents\šiht\261017 razvoj\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_2.1.csproj.GenerateResource.Cache
+C:\Users\Aleš\Documents\šiht\261017 razvoj\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.exe
+C:\Users\Aleš\Documents\šiht\261017 razvoj\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.pdb
+C:\Users\Aleš\Documents\šiht\261017 razvoj\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_2.1.csprojResolveAssemblyReference.cache
+C:\Users\ales\Documents\šiht\11112017\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.exe.config
+C:\Users\ales\Documents\šiht\11112017\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_2.1.csproj.ResolveComReference.cache
+C:\Users\ales\Documents\šiht\11112017\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.exe
+C:\Users\ales\Documents\šiht\11112017\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.pdb
+C:\Users\ales\Documents\šiht\11112017\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.exe
+C:\Users\ales\Documents\šiht\11112017\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.pdb
+C:\Users\ales\Documents\šiht\11112017\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\SnmpSharpNet.dll
+C:\Users\ales\Documents\šiht\11112017\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_2.1.csprojResolveAssemblyReference.cache
+C:\Users\ales\Documents\šiht\11112017\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.Form1.resources
+C:\Users\ales\Documents\šiht\11112017\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.Properties.Resources.resources
+C:\Users\ales\Documents\šiht\11112017\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_2.1.csproj.GenerateResource.Cache
+\\mcr2\Users\ales\Documents\šiht\11112017\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.exe.config
+\\mcr2\Users\ales\Documents\šiht\11112017\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_2.1.csproj.ResolveComReference.cache
+\\mcr2\Users\ales\Documents\šiht\11112017\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.exe
+\\mcr2\Users\ales\Documents\šiht\11112017\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.pdb
+C:\Users\Aleš\Documents\šiht\131117\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.exe.config
+C:\Users\Aleš\Documents\šiht\131117\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_2.1.csproj.ResolveComReference.cache
+C:\Users\Aleš\Documents\šiht\131117\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.exe
+C:\Users\Aleš\Documents\šiht\131117\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.pdb
+C:\Users\Aleš\Documents\šiht\131117\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.exe
+C:\Users\Aleš\Documents\šiht\131117\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.pdb
+C:\Users\Aleš\Documents\šiht\131117\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.Form1.resources
+C:\Users\Aleš\Documents\šiht\131117\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.Properties.Resources.resources
+C:\Users\Aleš\Documents\šiht\131117\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_2.1.csproj.GenerateResource.Cache
+C:\Users\Aleš\Documents\šiht\281117\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.exe.config
+C:\Users\Aleš\Documents\šiht\281117\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_2.1.csproj.ResolveComReference.cache
+C:\Users\Aleš\Documents\šiht\281117\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.exe
+C:\Users\Aleš\Documents\šiht\281117\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.pdb
+C:\Users\Aleš\Documents\šiht\281117\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.exe
+C:\Users\Aleš\Documents\šiht\281117\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.pdb
+C:\Users\Aleš\Documents\šiht\281117\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.Form1.resources
+C:\Users\Aleš\Documents\šiht\281117\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.Properties.Resources.resources
+C:\Users\Aleš\Documents\šiht\281117\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_2.1.csproj.GenerateResource.Cache
+C:\Users\Aleš\Documents\šiht\021217\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.exe.config
+C:\Users\Aleš\Documents\šiht\021217\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_2.1.csproj.ResolveComReference.cache
+C:\Users\Aleš\Documents\šiht\021217\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.exe
+C:\Users\Aleš\Documents\šiht\021217\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.pdb
+C:\Users\Aleš\Documents\šiht\021217\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.Form1.resources
+C:\Users\Aleš\Documents\šiht\021217\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.Properties.Resources.resources
+C:\Users\Aleš\Documents\šiht\021217\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_2.1.csproj.GenerateResource.Cache
+C:\Users\Aleš\Documents\šiht\021217\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.exe
+C:\Users\Aleš\Documents\šiht\021217\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.pdb
+C:\Users\Aleš\Documents\šiht\061217\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.exe.config
+C:\Users\Aleš\Documents\šiht\061217\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_2.1.csproj.ResolveComReference.cache
+C:\Users\Aleš\Documents\šiht\061217\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.exe
+C:\Users\Aleš\Documents\šiht\061217\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.pdb
+C:\Users\Aleš\Documents\šiht\061217\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.exe
+C:\Users\Aleš\Documents\šiht\061217\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.pdb
+C:\Users\Aleš\Documents\šiht\061217\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_2.1.csprojResolveAssemblyReference.cache
+C:\Users\Aleš\Documents\šiht\061217\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.Form1.resources
+C:\Users\Aleš\Documents\šiht\061217\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.Properties.Resources.resources
+C:\Users\Aleš\Documents\šiht\061217\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_2.1.csproj.GenerateResource.Cache
+C:\Users\ales\Documents\šiht\191217\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.exe.config
+C:\Users\ales\Documents\šiht\191217\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_2.1.csproj.ResolveComReference.cache
+C:\Users\ales\Documents\šiht\191217\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.exe
+C:\Users\ales\Documents\šiht\191217\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.pdb
+C:\Users\ales\Documents\šiht\191217\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.exe
+C:\Users\ales\Documents\šiht\191217\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\TVR_Nadzor_v01.pdb
+C:\Users\ales\Documents\šiht\191217\TVR_Nadzor_v01\TVR_Nadzor_v01\bin\Debug\SnmpSharpNet.dll
+C:\Users\ales\Documents\šiht\191217\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.Form1.resources
+C:\Users\ales\Documents\šiht\191217\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_v01.Properties.Resources.resources
+C:\Users\ales\Documents\šiht\191217\TVR_Nadzor_v01\TVR_Nadzor_v01\obj\Debug\TVR_Nadzor_2.1.csproj.GenerateResource.Cache
